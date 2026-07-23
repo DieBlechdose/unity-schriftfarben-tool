@@ -6,6 +6,34 @@
   "packages": {
     "com.dieblechdose.schriftfarben-tool": {
       "versions": {
+        "1.1.0": {
+          "name": "com.dieblechdose.schriftfarben-tool",
+          "displayName": "Schriftfarben Tool",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "Modernes Unity-Editorwerkzeug zum zuverlässigen Ändern der Schriftfarben von TextMeshPro- und klassischen UI-Texten.",
+          "author": {
+            "name": "DieBlechdose",
+            "email": "220796967+DieBlechdose@users.noreply.github.com",
+            "url": "https://github.com/DieBlechdose"
+          },
+          "license": "MIT",
+          "keywords": [
+            "vrchat",
+            "editor",
+            "text",
+            "textmeshpro",
+            "color"
+          ],
+          "dependencies": {
+            "com.unity.textmeshpro": "3.0.6",
+            "com.unity.ugui": "1.0.0"
+          },
+          "vpmDependencies": {},
+          "url": "https://github.com/DieBlechdose/unity-schriftfarben-tool/releases/download/v1.1.0/com.dieblechdose.schriftfarben-tool-1.1.0.zip",
+          "changelogUrl": "https://github.com/DieBlechdose/unity-schriftfarben-tool/blob/main/CHANGELOG.md",
+          "zipSHA256": "A382B5794E3853E47D9D7485932F973FCC9BB5A40F490B62AD91F92FE5E06770"
+        },
         "1.0.0": {
           "name": "com.dieblechdose.schriftfarben-tool",
           "displayName": "Schriftfarben Tool",
