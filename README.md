@@ -9,12 +9,12 @@ Mit diesem kleinen Editorwerkzeug kannst du die Farbe mehrerer Texte auf einmal
 
 ## Installation über VRChat Creator Companion
 
-[Repository in Creator Companion hinzufügen](vcc://vpm/addRepo?url=https%3A%2F%2Fraw.githubusercontent.com%2FDieBlechdose%2Funity-schriftfarben-tool%2Fmain%2Findex.json)
+[Schriftfarben Tool zu Creator Companion hinzufügen](https://dieblechdose.github.io/unity-schriftfarben-tool/)
 
 Falls der Link nicht automatisch geöffnet wird, füge diese Adresse in Creator
 Companion unter **Settings > Packages > Add Repository** ein:
 
-`https://raw.githubusercontent.com/DieBlechdose/unity-schriftfarben-tool/main/index.json`
+`https://dieblechdose.github.io/unity-schriftfarben-tool/index.json`
 
 Öffne anschließend dein Projekt in Creator Companion und füge das Paket
 **Schriftfarben Tool** hinzu.
