@@ -29,13 +29,16 @@ Companion unter **Settings > Packages > Add Repository** ein:
 
 1. Wähle in der **Hierarchy** ein oder mehrere Objekte aus.
 2. Stelle im Fenster die gewünschte Farbe ein.
-3. Lege fest, ob untergeordnete und inaktive Objekte berücksichtigt werden.
-4. Klicke auf **Farbe auf Auswahl anwenden**.
+3. Klicke auf **Farbe anwenden**.
+
+Das Werkzeug durchsucht automatisch die gesamte Auswahl einschließlich aller
+untergeordneten und inaktiven Objekte. Der Status im Fenster zeigt jederzeit,
+wie viele unterstützte Textkomponenten gefunden wurden.
 
 Die Änderung lässt sich wie gewohnt mit **Strg+Z** beziehungsweise **Cmd+Z**
 rückgängig machen.
 
 ## Voraussetzung
 
-Das Werkzeug ist für Unity 2020.3 oder neuer vorgesehen. TextMeshPro muss nur
-installiert sein, wenn dein Projekt TextMeshPro-Komponenten verwendet.
+Das Werkzeug ist für Unity 2022.3 oder neuer vorgesehen. TextMeshPro und
+Unity UI werden als Paketabhängigkeiten automatisch eingebunden.
