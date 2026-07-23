@@ -2,7 +2,7 @@
   "name": "DieBlechdose VPM Packages",
   "id": "com.dieblechdose.vpm",
   "url": "https://dieblechdose.github.io/unity-schriftfarben-tool/index.json",
-  "author": "220796967+DieBlechdose@users.noreply.github.com",
+  "author": "DieBlechdose",
   "packages": {
     "com.dieblechdose.schriftfarben-tool": {
       "versions": {
