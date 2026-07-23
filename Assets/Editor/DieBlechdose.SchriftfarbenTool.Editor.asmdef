@@ -1,0 +1,19 @@
+{
+  "name": "DieBlechdose.SchriftfarbenTool.Editor",
+  "rootNamespace": "DieBlechdose.SchriftfarbenTool",
+  "references": [
+    "Unity.TextMeshPro",
+    "Unity.ugui"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
