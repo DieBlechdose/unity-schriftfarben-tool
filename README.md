@@ -7,6 +7,18 @@ Mit diesem kleinen Editorwerkzeug kannst du die Farbe mehrerer Texte auf einmal
 - TextMeshPro 3D (`TextMeshPro`)
 - klassischer Unity-UI-Text (`UnityEngine.UI.Text`)
 
+## Installation über VRChat Creator Companion
+
+[Repository in Creator Companion hinzufügen](vcc://vpm/addRepo?url=https%3A%2F%2Fraw.githubusercontent.com%2FDieBlechdose%2Funity-schriftfarben-tool%2Fmain%2Findex.json)
+
+Falls der Link nicht automatisch geöffnet wird, füge diese Adresse in Creator
+Companion unter **Settings > Packages > Add Repository** ein:
+
+`https://raw.githubusercontent.com/DieBlechdose/unity-schriftfarben-tool/main/index.json`
+
+Öffne anschließend dein Projekt in Creator Companion und füge das Paket
+**Schriftfarben Tool** hinzu.
+
 ## Installation
 
 1. Kopiere den Ordner `Assets` aus diesem Paket in dein Unity-Projekt.
